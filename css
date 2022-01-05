@@ -1,0 +1,118 @@
+
+h1 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  color: #191b24;
+}
+
+.colors {
+  font-family: Roboto;
+  font-size:20px;
+  border: solid 2px #191b24;
+  padding: 10px;
+  padding-bottom: 100px;
+}
+
+.colors li {
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px #191b24;
+  padding: 30px;
+}
+
+#RaisinBlack {
+  background-color: #191b24;
+  color: white;
+  margin-right: 40px;
+}
+
+#RaisinBlack:hover {
+  background-color: #212430;
+  border: 3px solid black;
+}
+
+#DavysGrey {
+  background-color: #595b5f;
+  color: white;
+  margin-right: 40px;
+}
+#DavysGrey:hover {
+  background-color: #636569;
+  border: 3px solid #45474A;
+}
+#OceanGreen {
+  background-color: #5fbb97;
+  color: white;
+  margin-right: 40px;
+}
+#OceanGreen:hover {
+  background-color: #70C2A3;
+  border: 3px solid #439D7B;
+}
+#Snow {
+  background-color: #FFFAFB;
+  margin-right: 40px;
+}
+#Snow:hover {
+  background-color: #FFFAFB;
+  border: 3px solid black;
+}
+.fonts {
+  font-family: Roboto;
+  font-size:20px;
+  border: solid 2px #191b24;
+  padding: 10px;
+  padding-bottom: 100px;
+  margin-top: 10px;
+  background-color: #5fbb97;
+}
+
+.fonts li {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  text-decoration: underline;
+}
+
+p {
+  text-align: justify;
+  margin-left: 40px;
+  margin-top: 5px;
+}
+
+.V {
+  font-family: verdana;
+}
+
+.R {
+  font-family: Roboto;
+}
+
+#Roboto {
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.textstyles {
+  font-family: Roboto;
+  font-size:20px;
+  border: solid 2px #191b24;
+  padding: 10px;
+  padding-bottom: 100px;
+  margin-top: 10px;
+  background-color: #505A5B;
+  color: white;
+}
+
+#h1style {
+  font-family: Roboto;
+  text-align: left;
+  color: white;
+  }
+
+#pstyle {
+  margin-left: 5px;
+  margin-top: 25px;
+}
